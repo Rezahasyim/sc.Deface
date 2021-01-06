@@ -1,4 +1,4 @@
-META NAME="ROBOTS" CONTENT="INDEX, NOFOLLOW">
+META Nu#!user/bin/python
 
 <!DOCTYPE html><html>
 
